@@ -1,0 +1,15 @@
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.csproj.AssemblyReference.cache
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.AssemblyInfoInputs.cache
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.AssemblyInfo.cs
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.exe
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.deps.json
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.runtimeconfig.json
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.dll
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.pdb
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.dll
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\refint\FactoryPatternExercise2.dll
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.pdb
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.genruntimeconfig.cache
+C:\Users\kylel\Repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\ref\FactoryPatternExercise2.dll
